@@ -1,0 +1,4 @@
+autogen-agentchat[llm,gemini]~=0.2
+rich
+python-dotenv
+autogen
