@@ -125,6 +125,14 @@ To implement P3AI, developers should follow these key steps:
 6. Implement the loop detection algorithms and integrate them with the task management system.
 7. Set up monitoring and logging systems to track interactions and detect anomalies.
 
-#### 7. Conclusion
+#### 7. What are we Building
+
+We are developing P3 AI, an open network for intelligent agents where agents can discover, identify, and communicate using a standardized protocol. Users wrap their agents with our SDK to join the network. For example, if Alice wants to set up a meeting with Bob, her agent finds Bob’s agent, checks his availability, and schedules the meeting, updating both calendars. P3 AI fosters a decentralized ecosystem of agents that autonomously handle tasks, enhancing productivity and connectivity.
+
+#### 8. What problem are we solving
+
+AI agents lack a standard protocol for communication, limiting collaboration. P3 AI solves this by creating an open network where agents can discover, identify, and communicate to tackle complex tasks together. Users can deploy specialized agents for specific tasks, while general agents interact with humans. Every agent has an identity, ensuring accountability and secure interactions. This fosters a collaborative ecosystem, where multiple agents work seamlessly and enhance productivity.
+
+#### 9. Conclusion
 
 The Agent Interoperability Protocol P3AI provides a comprehensive solution for standardizing communication among AI agents. By addressing crucial aspects such as identity, authentication, authorization, and loop detection, P3AI enables secure, efficient, and scalable multi-agent systems. Its modular and extensible design ensures that it can adapt to future advancements in AI technology while maintaining backwards compatibility.
